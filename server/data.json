@@ -1,0 +1,418 @@
+[
+    {
+        "name": "Aaron Ramsdale",
+        "position": "Goalkeeper",
+        "number": 1,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "14/05/1998",
+            "height": "188cm"
+        },
+        "premier league record": {
+            "appearances": 147,
+            "clean sheets": 36,
+            "goals": 0,
+            "assists": 1
+        }
+    },
+    {
+        "name": "Kieran Tierney",
+        "position": "Defender",
+        "number": 3,
+        "personal details" :{
+            "nationality": "Scotland",
+            "date of birth": "05/06/1997",
+            "height": "178cm"
+        },
+        "premier league record": {
+            "appearances": 91,
+            "clean sheets": 3,
+            "goals": 8,
+            "assists": 19 
+        }
+    },
+    {
+        "name": "Ben White",
+        "position": "Defender",
+        "number": 4,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "08/10/1997",
+            "height": "186cm"
+        },
+        "premier league record": {
+            "appearances": 106,
+            "clean sheets": 2,
+            "goals": 5,
+            "assists": 33 
+        }
+    },
+    {
+        "name": "Gabriel Magalhães",
+        "position": "Defender",
+        "number": 6,
+        "personal details" :{
+            "nationality": "Brazil",
+            "date of birth": "19/12/1997",
+            "height": "190cm"
+        },
+        "premier league record": {
+            "appearances": 96,
+            "clean sheets": 10,
+            "goals": 0,
+            "assists": 32
+        }
+    },
+    {
+        "name": "William Saliba",
+        "position": "Defender",
+        "number": 2,
+        "personal details" :{
+            "nationality": "France",
+            "date of birth": "24/03/2001",
+            "height": "192cm"
+        },
+        "premier league record": {
+            "appearances": 27,
+            "clean sheets": 2,
+            "goals": 1,
+            "assists": 11 
+        }
+    },
+    {
+        "name": "Jakub Kiwior",
+        "position": "Defender",
+        "number": 15,
+        "personal details" :{
+            "nationality": "Poland",
+            "date of birth": "15/02/2000",
+            "height": "189cm"
+        },
+        "premier league record": {
+            "appearances": 7,
+            "clean sheets": 1,
+            "goals": 0,
+            "assists": 1
+        }
+    },
+    {
+        "name": "Rob Holding",
+        "position": "Defender",
+        "number": 16,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "20/09/1995",
+            "height": "189cm"
+        },
+        "premier league record": {
+            "appearances": 98,
+            "clean sheets": 2,
+            "goals": 1,
+            "assists": 22
+        }
+    },
+    {
+        "name": "Takehiro Tomiyasu",
+        "position": "Defender",
+        "number": 18,
+        "personal details" :{
+            "nationality": "Japan",
+            "date of birth": "05/11/1998",
+            "height": "187cm"
+        },
+        "premier league record": {
+            "appearances": 42,
+            "clean sheets": 0,
+            "goals": 2,
+            "assists": 8
+        }
+    },
+    {
+        "name": "Cédric Soares",
+        "position": "Defender",
+        "number": 17,
+        "personal details" :{
+            "nationality": "Portugal",
+            "date of birth": "31/08/1991",
+            "height": "172cm"
+        },
+        "premier league record": {
+            "appearances": 164,
+            "clean sheets": 3,
+            "goals": 13,
+            "assists": 33
+        }
+    },
+    {
+        "name": "Nuno Tavares",
+        "position": "Defender",
+        "number": 20,
+        "personal details" :{
+            "nationality": "Portugal",
+            "date of birth": "26/01/2000",
+            "height": "183cm"
+        },
+        "premier league record": {
+            "appearances": 22,
+            "clean sheets": 1,
+            "goals": 1,
+            "assists": 3
+        }
+    },
+    {
+        "name": "Thomas Partey",
+        "position": "Midfielder",
+        "number": 5,
+        "personal details" :{
+            "nationality": "Ghana",
+            "date of birth": "13/06/1993",
+            "height": "185cm"
+        },
+        "premier league record": {
+            "appearances": 81,
+            "clean sheets": "N/A",
+            "goals": 5,
+            "assists": 3 
+        }
+    },
+    {
+        "name": "Bukayo Saka",
+        "position": "Midfielder",
+        "number": 7,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "05/09/2001",
+            "height": "178cm"
+        },
+        "premier league record": {
+            "appearances": 135,
+            "clean sheets": "N/A",
+            "goals": 31,
+            "assists": 26
+        }
+    },
+    {
+        "name": "Martin Ødegaard",
+        "position": "Midfielder",
+        "number": 8,
+        "personal details" :{
+            "nationality": "Norway",
+            "date of birth": "17/12/1998",
+            "height": "178cm"
+        },
+        "premier league record": {
+            "appearances": 87,
+            "clean sheets": "N/A",
+            "goals": 23,
+            "assists": 13
+        }
+    },
+    {
+        "name": "Emile Smith Rowe",
+        "position": "Midfielder",
+        "number": 10,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "28/07/2000",
+            "height": "182cm"
+        },
+        "premier league record": {
+            "appearances": 67,
+            "clean sheets": "N/A",
+            "goals": 12,
+            "assists": 8
+        }
+    },
+    {
+        "name": "Jorginho",
+        "position": "Midfielder",
+        "number": 20,
+        "personal details" :{
+            "nationality": "Italy",
+            "date of birth": "20/12/1991",
+            "height": "180cm"
+        },
+        "premier league record": {
+            "appearances": 157,
+            "clean sheets": "N/A",
+            "goals": 21,
+            "assists": 6
+        }
+    },
+    {
+        "name": "Fábio Vieira",
+        "position": "Midfielder",
+        "number": 21,
+        "personal details" :{
+            "nationality": "Portugal",
+            "date of birth": "30/05/2000",
+            "height": "170cm"
+        },
+        "premier league record": {
+            "appearances": 22,
+            "clean sheets": "N/A",
+            "goals": 1,
+            "assists": 2
+        }
+    },
+    {
+        "name": "Mohamed Elneny",
+        "position": "Midfielder",
+        "number": 23,
+        "personal details" :{
+            "nationality": "Egypt",
+            "date of birth": "11/07/1992",
+            "height": "179cm"
+        },
+        "premier league record": {
+            "appearances": 88,
+            "clean sheets": "N/A",
+            "goals": 1,
+            "assists": 5
+        }
+    },
+    {
+        "name": "Oleksandr Zinchenko",
+        "position": "Midfielder",
+        "number": 35,
+        "personal details" :{
+            "nationality": "Ukraine",
+            "date of birth": "15/12/1996",
+            "height": "175cm"
+        },
+        "premier league record": {
+            "appearances": 103,
+            "clean sheets": "N/A",
+            "goals": 1,
+            "assists": 9 
+        }
+    },
+    {
+        "name": "Kai Havertz",
+        "position": "Midfielder",
+        "number": 29,
+        "personal details" :{
+            "nationality": "Germany",
+            "date of birth": "11/06/1999",
+            "height": "193cm"
+        },
+        "premier league record": {
+            "appearances": 91,
+            "clean sheets": "N/A",
+            "goals": 19,
+            "assists": 7
+        }
+    },
+    {
+        "name": "Declan Rice",
+        "position": "Midfielder",
+        "number": 41,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "14/01/1999",
+            "height": "185cm"
+        },
+        "premier league record": {
+            "appearances": 204,
+            "clean sheets": "N/A",
+            "goals": 10,
+            "assists": 10
+        }
+    },
+    {
+        "name": "Gabriel Jesus",
+        "position": "Forward",
+        "number": 9,
+        "personal details" :{
+            "nationality": "Brazil",
+            "date of birth": "03/04/1997",
+            "height": "175cm"
+        },
+        "premier league record": {
+            "appearances": 185,
+            "clean sheets": "N/A",
+            "goals": 69,
+            "assists": 35
+        }
+    },
+    {
+        "name": "Gabriel Martinelli",
+        "position": "Forward",
+        "number": 11,
+        "personal details" :{
+            "nationality": "Brazil",
+            "date of birth": "18/06/2001",
+            "height": "178cm"
+        },
+        "premier league record": {
+            "appearances": 93,
+            "clean sheets": "N/A",
+            "goals": 26,
+            "assists": 12
+        }
+    },
+    {
+        "name": "Eddie Nketiah",
+        "position": "Forward",
+        "number": 14,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "30/05/1999",
+            "height": "175cm"
+        },
+        "premier league record": {
+            "appearances": 89,
+            "clean sheets": "N/A",
+            "goals": 14,
+            "assists": 3
+        }
+    },
+    {
+        "name": "Leandro Trossard",
+        "position": "Forward",
+        "number": 19,
+        "personal details" :{
+            "nationality": "Belgium",
+            "date of birth": "04/12/1994",
+            "height": "172cm"
+        },
+        "premier league record": {
+            "appearances": 137,
+            "clean sheets": "N/A",
+            "goals": 26,
+            "assists": 23
+        }
+    },
+    {
+        "name": "Reiss Nelson",
+        "position": "Forward",
+        "number": 24,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "10/12/1999",
+            "height": "175cm"
+        },
+        "premier league record": {
+            "appearances": 34,
+            "clean sheets": "N/A",
+            "goals": 4,
+            "assists": 2
+        }
+    },
+    {
+        "name": "Nicolas Pépé",
+        "position": "Forward",
+        "number": 19,
+        "personal details" :{
+            "nationality": "Cote D'Ivoire",
+            "date of birth": "29/05/1995",
+            "height": "183cm"
+        },
+        "premier league record": {
+            "appearances": 80,
+            "clean sheets": "N/A",
+            "goals": 16,
+            "assists": 8
+        }
+    }
+]
